@@ -1,3 +1,10 @@
+
+![Screenshot_20250616_150905_ExamTsira](https://github.com/user-attachments/assets/1b807b41-577d-403b-a7fe-97f4c3532ef7)
+![Screenshot_20250616_150859_ExamTsira](https://github.com/user-attachments/assets/833aecdf-74be-404d-9a57-19a2986df0ec)
+
+
+
+
 **Description**
 
 This is a simple Android application written in Kotlin that displays a list of the most popular works by famous artists. Upon launching the app, users are presented with a list of artists, including the following details:
